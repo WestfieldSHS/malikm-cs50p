@@ -18,7 +18,7 @@ Watch the [Functions, Variables](https://schoolsnsw.sharepoint.com/:v:/r/sites/T
 10. Strings
 11. Interger
 12. Float
-13. Parenthasis
+13. Parenthasis (a bracket)
 14. Square Brackets
 15. format string
 16. Define
